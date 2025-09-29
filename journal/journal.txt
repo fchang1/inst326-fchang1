@@ -9,3 +9,7 @@ For example, I needed to understand the concept of sorted in Python.
 In the beginning, I didn' know what the code for making something in alphabetical order so I had to ask ChatGPT: "What is the code for making something alphabetical."
  I think ChatGPT can be very helpful when it comes to Python as it can not only give a explination of the code but also show you example codes.
  I also used it to remind myself how to remove something from a list, how to use i in range, and how to slice a list.
+
+Week 3 
+For this weeks assingment, I used online website that specialize in code and explinations. I was able to refer to that website when I needed help or clarification on a question. The website name is W3 schools. Here is my chat link: https://chatgpt.com/share/68d9ee3b-a4ec-800f-b9d0-6d7f3e7e8b69
+This week was more tedious and the questions seemed straight foward but I still needed an explination on them. I found myseld refering to ChatGPT for clarification and more indpeth explination on a topic. I used Chat to help me understand tuples and explain it futher as it was mentioned in the assingment.
