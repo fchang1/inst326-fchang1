@@ -1,3 +1,6 @@
+Faith Chang 
+INST326 - 0202
+
 week 1
 I use AI by helping me brainstorm ideas. 
 
@@ -13,3 +16,7 @@ In the beginning, I didn' know what the code for making something in alphabetica
 Week 3 
 For this weeks assingment, I used online website that specialize in code and explinations. I was able to refer to that website when I needed help or clarification on a question. The website name is W3 schools. Here is my chat link: https://chatgpt.com/share/68d9ee3b-a4ec-800f-b9d0-6d7f3e7e8b69
 This week was more tedious and the questions seemed straight foward but I still needed an explination on them. I found myseld refering to ChatGPT for clarification and more indpeth explination on a topic. I used Chat to help me understand tuples and explain it futher as it was mentioned in the assingment.
+
+Week 4 
+This week assignments it was very interesting. I liked how there as prompts and then an example code to run that made it easy to test my code with. I was able to use that test code to ensure my code ran smoothly. For the coding itself it was pretty repetivie which allowed me to understand a little better and get into a flow for coding this weeks assignment. For this weeks assignment I did use ChatGPT and here is my conversation: https://chatgpt.com/share/68e32aba-f0b4-800f-b351-e50ead514d44
+I used it to clarify some topics and explain more simply to me to understand for this weeks assignment.
