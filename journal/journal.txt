@@ -1,4 +1,5 @@
 Faith Chang 
+Professor Dempwolf
 INST326 - 0202
 
 week 1
@@ -20,3 +21,7 @@ This week was more tedious and the questions seemed straight foward but I still 
 Week 4 
 This week assignments it was very interesting. I liked how there as prompts and then an example code to run that made it easy to test my code with. I was able to use that test code to ensure my code ran smoothly. For the coding itself it was pretty repetivie which allowed me to understand a little better and get into a flow for coding this weeks assignment. For this weeks assignment I did use ChatGPT and here is my conversation: https://chatgpt.com/share/68e32aba-f0b4-800f-b351-e50ead514d44
 I used it to clarify some topics and explain more simply to me to understand for this weeks assignment.
+
+Week 5 
+This weeks assignment I found a little hard to understand at first. I asked ChatGPT to help explain a few concepts. One concpet I asked it to explain was ValueError. I have seen this before but I haven't really used it that much with assignments. I learned that this is used when you are giving the fuctions the right type of data but the wrong type of value. After asking ChatGPT a few more concepts I was able to understand the assignment more. This is my conversation with ChatGPT: https://chatgpt.com/share/68ec1f50-f534-800f-ab75-5bb3c63bc53c
+
