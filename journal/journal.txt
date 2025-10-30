@@ -27,3 +27,7 @@ This weeks assignment I found a little hard to understand at first. I asked Chat
 
 Week 6
 This week I completed the assigment. I used ChatGPT to help me understand a little more what the main instructions of the assignment asked from me. I used this to help explain some definitions such as classmethods. This was used greatly in this weeks exercise which I why I wanted to get a better understanding of it. I found out that classmethods are used inside a class that belongs to the class itself. This allows it to access and manipulate data. I also asked it to go more in depth about class attributes and how it relates to the assignment. Here is the chat link: https://chatgpt.com/share/68fe19b5-7a84-800f-bc30-e1f585840953 
+
+Week 7
+This week I completed the assignment with clarification from ChatGPT. Chat has helped me understand concepts from the assignments. It has also helped me understand what specific concepts I am being asked in the assignments. It can be helpful to provide examples on specific function concepts to gain a better understanding of it. Here is my chat link from my conversation: https://chatgpt.com/share/6903a4d2-2234-800f-a37e-8283fd837421
+
