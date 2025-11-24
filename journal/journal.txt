@@ -36,3 +36,7 @@ I have been learning more about the assignments. I am reading the instrutions mo
 
 Week 9
 This week I have been learning more about Abstract Base Classes (ABCs). I learned more about abstract base properties and how to use them. Witht this weeks assignment I have been learning more how to implement the code that it teaches us into use with the problems. There were times where I ran into errors in my code and I had Chat explain the code error to me. It assisted me with helping me understand my errors and explain it to me. I got an error for one of the questions and the error wasnt in the colorful text it was fully black text with white background. I didnt understand so when it was explain to me i was able to go back and fix my mistake which was that I forgot to put commas. Here is the conversation: https://chatgpt.com/share/691a9819-ea10-800f-989b-912c5b5948b5
+
+Week 10
+I was able to read over the assignment and understand more what it meant. I learned more about testing and using the different functions to do so. I also learned more about property which is something that we have been focusing on these past few weeks. This weeks assignment helped reenforcethat. I was able to learn more and have concepts explained to me with chat. This is the conversation:
+https://chatgpt.com/share/6923e4a5-158c-800f-b770-b4c6d0994dfe
